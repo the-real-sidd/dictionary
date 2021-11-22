@@ -1,4 +1,4 @@
-#Online Dictionary Using HTML, CSS and JavaScript
+# Online Dictionary Using HTML, CSS and JavaScript
 #### Video Demo:  <https://www.youtube.com/watch?v>
 #### Description:
 I built this online dictionary using HTML, CSS and JavaScript. I used the free Dictionary API to fetch the Meaning, example and Synonyms of the word which user type in the Search Field.
